@@ -2,7 +2,7 @@
 
 > Gobierno de datos de un banco: inventario de datos personales, hallazgos de auditoría y controles automáticos de acceso, calidad y retención.
 
-**Estado:** 🚧 sin empezar · **Tipo:** Gobierno de datos · **Módulo del programa:** 07 · Capstone, reto 6
+**Estado:** 🚧 sin empezar · **Tipo:** Gobierno de datos · **Módulo del programa:** 08 · Capstone, reto 6
 
 ## La problemática
 
