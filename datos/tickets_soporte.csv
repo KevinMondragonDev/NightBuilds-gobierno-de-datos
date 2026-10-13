@@ -1,0 +1,801 @@
+id,cliente_id,fecha,canal,notas
+1,406,2026-03-31,telefono,"Su CURP es DVCX650930HESBZB60, validar identidad."
+2,331,2026-03-08,sucursal,Llamó desde el 4423250691 para aclarar un cargo.
+3,650,2026-07-24,chat,El cliente pide actualizar su correo a gabriela.castillo.molina81@mail.test.
+4,446,2026-09-25,chat,Llamó desde el 4427300715 para aclarar un cargo.
+5,13,2026-03-29,sucursal,Llamó desde el 4429308766 para aclarar un cargo.
+6,223,2026-08-04,sucursal,No reconoce la compra con tarjeta 4152 3138 7230 5979.
+7,773,2026-03-20,chat,"Su CURP es STKX940318HMETNS80, validar identidad."
+8,796,2026-04-19,telefono,Pregunta por los requisitos de la tarjeta de crédito.
+9,525,2026-02-09,chat,El cliente pide actualizar su correo a diego.vega.ramirez48@mail.test.
+10,200,2026-06-06,chat,Pregunta por los requisitos de la tarjeta de crédito.
+11,484,2026-05-19,chat,"Vive en Calle Soto 603, Guadalajara, pide cambio de domicilio."
+12,93,2026-01-27,sucursal,"Su CURP es MGUX950222HBDTTT38, validar identidad."
+13,702,2026-04-07,chat,El cliente pide actualizar su correo a carla.gil.herrera68@mail.test.
+14,928,2026-07-22,telefono,El cliente pide actualizar su correo a irene.soto.salazar70@mail.test.
+15,76,2026-09-26,telefono,"Vive en Calle Núñez 693, Guadalajara, pide cambio de domicilio."
+16,489,2025-12-24,chat,Llamó desde el 4424187761 para aclarar un cargo.
+17,282,2026-07-13,chat,Queja por el tiempo de espera en sucursal.
+18,60,2025-12-18,sucursal,Solicita su estado de cuenta de julio.
+19,69,2026-04-26,telefono,"Su CURP es RLMX780718HMTAYH73, validar identidad."
+20,430,2026-08-26,chat,El cliente pide actualizar su correo a irene.soto.ortiz66@correo.mx.
+21,883,2026-06-14,sucursal,Queja por el tiempo de espera en sucursal.
+22,88,2026-09-17,telefono,Pregunta por los requisitos de la tarjeta de crédito.
+23,598,2026-08-12,sucursal,Pregunta por los requisitos de la tarjeta de crédito.
+24,794,2026-08-22,telefono,Llamó desde el 4421330495 para aclarar un cargo.
+25,128,2025-12-11,sucursal,No reconoce la compra con tarjeta 4152 3138 7899 3656.
+26,501,2026-01-20,sucursal,Queja por el tiempo de espera en sucursal.
+27,508,2026-04-26,sucursal,Solicita su estado de cuenta de julio.
+28,204,2026-06-09,telefono,No reconoce la compra con tarjeta 4152 3138 4336 4625.
+29,588,2025-12-12,sucursal,El cliente pide actualizar su correo a sergio.lopez.flores16@mail.test.
+30,337,2026-04-11,chat,Queja por el tiempo de espera en sucursal.
+31,966,2026-08-07,sucursal,"Su CURP es FRRX780125HATFIO41, validar identidad."
+32,147,2026-09-25,sucursal,El cliente pide actualizar su correo a ximena.gil.campos80@ejemplo.com.
+33,571,2026-08-18,telefono,Queja por el tiempo de espera en sucursal.
+34,806,2026-06-21,sucursal,"Vive en Calle Rojas 97, Puebla, pide cambio de domicilio."
+35,844,2026-05-27,telefono,El cliente pide actualizar su correo a luis.herrera.torres43@mail.test.
+36,416,2026-08-16,telefono,Pregunta por los requisitos de la tarjeta de crédito.
+37,527,2026-09-14,chat,Llamó desde el 4424905013 para aclarar un cargo.
+38,820,2026-01-15,telefono,"Vive en Calle Soto 568, León, pide cambio de domicilio."
+39,38,2026-01-27,telefono,Solicita su estado de cuenta de julio.
+40,866,2026-03-20,telefono,Queja por el tiempo de espera en sucursal.
+41,252,2026-05-12,telefono,Queja por el tiempo de espera en sucursal.
+42,402,2026-08-13,chat,El cliente pide actualizar su correo a teresa.gil.castillo91@mail.test.
+43,222,2026-02-17,telefono,El cliente pide actualizar su correo a carla.soto.aguilar38@ejemplo.com.
+44,841,2026-06-11,telefono,Solicita su estado de cuenta de julio.
+45,226,2026-09-18,chat,"Vive en Calle Ortiz 463, CDMX, pide cambio de domicilio."
+46,634,2026-08-07,chat,Llamó desde el 4423642470 para aclarar un cargo.
+47,837,2026-04-16,chat,"Su CURP es RFMX770404MJEZIB33, validar identidad."
+48,54,2026-01-27,sucursal,Queja por el tiempo de espera en sucursal.
+49,77,2026-01-24,sucursal,"Vive en Calle Peña 242, Mérida, pide cambio de domicilio."
+50,815,2026-03-24,sucursal,Llamó desde el 4424892741 para aclarar un cargo.
+51,469,2026-08-01,sucursal,El cliente pide actualizar su correo a sergio.ortiz.vega94@ejemplo.com.
+52,171,2026-07-13,sucursal,Queja por el tiempo de espera en sucursal.
+53,742,2026-03-26,chat,"Su CURP es RSJX680208HTPAHS34, validar identidad."
+54,968,2026-04-18,sucursal,No reconoce la compra con tarjeta 4152 3138 7023 9046.
+55,639,2025-12-31,chat,Pregunta por los requisitos de la tarjeta de crédito.
+56,643,2026-03-30,chat,"Su CURP es TRIX110902HDJHBN40, validar identidad."
+57,843,2026-03-31,sucursal,Llamó desde el 4421438747 para aclarar un cargo.
+58,928,2026-06-30,telefono,No reconoce la compra con tarjeta 4152 3138 6476 9462.
+59,400,2026-08-27,telefono,Queja por el tiempo de espera en sucursal.
+60,364,2026-07-02,telefono,Llamó desde el 4423125255 para aclarar un cargo.
+61,867,2026-06-03,telefono,"Su CURP es VRRX790607HTQPJS66, validar identidad."
+62,836,2026-05-08,sucursal,Pregunta por los requisitos de la tarjeta de crédito.
+63,828,2026-06-13,chat,Queja por el tiempo de espera en sucursal.
+64,942,2026-05-06,sucursal,El cliente pide actualizar su correo a elena.rojas.nunez59@correo.mx.
+65,636,2026-03-02,chat,"Su CURP es HSMX000326MRDZRD86, validar identidad."
+66,146,2026-08-17,chat,Pregunta por los requisitos de la tarjeta de crédito.
+67,386,2026-01-04,telefono,No reconoce la compra con tarjeta 4152 3138 6398 9756.
+68,917,2026-05-08,sucursal,"Vive en Calle Herrera 815, CDMX, pide cambio de domicilio."
+69,332,2026-03-14,chat,Solicita su estado de cuenta de julio.
+70,186,2026-06-05,sucursal,Llamó desde el 4422186743 para aclarar un cargo.
+71,557,2026-07-06,telefono,"Su CURP es GAAX121006HSBXPF47, validar identidad."
+72,508,2026-03-11,chat,No reconoce la compra con tarjeta 4152 3138 1976 5227.
+73,489,2026-05-30,chat,Llamó desde el 4424187761 para aclarar un cargo.
+74,48,2026-05-26,sucursal,No reconoce la compra con tarjeta 4152 3138 4246 1416.
+75,854,2025-12-14,chat,Queja por el tiempo de espera en sucursal.
+76,24,2026-08-17,chat,Queja por el tiempo de espera en sucursal.
+77,180,2026-04-25,chat,El cliente pide actualizar su correo a hector.castillo.ruiz10@ejemplo.com.
+78,175,2026-02-04,sucursal,"Su CURP es RDEX800119MTVGKL17, validar identidad."
+79,329,2026-06-03,chat,Solicita su estado de cuenta de julio.
+80,964,2026-02-02,chat,Llamó desde el 4427439312 para aclarar un cargo.
+81,64,2026-01-01,sucursal,Pregunta por los requisitos de la tarjeta de crédito.
+82,914,2026-07-26,sucursal,"Su CURP es SHTX640803HBAOTU27, validar identidad."
+83,471,2026-06-26,telefono,Solicita su estado de cuenta de julio.
+84,818,2026-02-19,sucursal,"Vive en Calle Herrera 576, CDMX, pide cambio de domicilio."
+85,155,2026-09-28,telefono,Pregunta por los requisitos de la tarjeta de crédito.
+86,139,2026-06-04,sucursal,No reconoce la compra con tarjeta 4152 3138 4523 7627.
+87,368,2026-05-20,telefono,Queja por el tiempo de espera en sucursal.
+88,731,2026-01-03,sucursal,Pregunta por los requisitos de la tarjeta de crédito.
+89,487,2026-04-15,telefono,Llamó desde el 4427187298 para aclarar un cargo.
+90,57,2025-12-22,sucursal,Solicita su estado de cuenta de julio.
+91,737,2026-02-02,sucursal,Queja por el tiempo de espera en sucursal.
+92,677,2026-06-18,telefono,Llamó desde el 4428755832 para aclarar un cargo.
+93,838,2026-03-03,sucursal,Llamó desde el 4423539720 para aclarar un cargo.
+94,864,2026-09-04,telefono,Llamó desde el 4429155221 para aclarar un cargo.
+95,610,2026-02-28,chat,Solicita su estado de cuenta de julio.
+96,370,2026-02-15,sucursal,Queja por el tiempo de espera en sucursal.
+97,509,2026-08-23,telefono,Solicita su estado de cuenta de julio.
+98,253,2026-06-17,telefono,"Su CURP es STCX040822HNSBAH40, validar identidad."
+99,345,2026-09-05,chat,No reconoce la compra con tarjeta 4152 3138 1478 1020.
+100,373,2026-08-04,sucursal,Solicita su estado de cuenta de julio.
+101,742,2026-06-26,chat,"Vive en Calle Ramírez 210, Mérida, pide cambio de domicilio."
+102,276,2026-01-03,telefono,No reconoce la compra con tarjeta 4152 3138 3862 4527.
+103,416,2026-07-26,telefono,Pregunta por los requisitos de la tarjeta de crédito.
+104,32,2026-06-16,chat,No reconoce la compra con tarjeta 4152 3138 2753 9166.
+105,235,2026-09-14,chat,"Su CURP es GDPX540215MRBOQN47, validar identidad."
+106,756,2026-04-28,chat,Pregunta por los requisitos de la tarjeta de crédito.
+107,72,2026-09-17,sucursal,"Su CURP es SLCX631105HDUIOQ16, validar identidad."
+108,123,2026-07-16,telefono,Queja por el tiempo de espera en sucursal.
+109,225,2026-08-24,sucursal,Queja por el tiempo de espera en sucursal.
+110,187,2026-07-10,telefono,El cliente pide actualizar su correo a ana.ramirez.vega31@correo.mx.
+111,891,2026-02-12,sucursal,Pregunta por los requisitos de la tarjeta de crédito.
+112,460,2026-03-23,sucursal,Solicita su estado de cuenta de julio.
+113,670,2026-05-07,chat,Queja por el tiempo de espera en sucursal.
+114,177,2026-07-29,telefono,"Su CURP es LRLX930822HJJHWS96, validar identidad."
+115,190,2026-09-14,telefono,El cliente pide actualizar su correo a ana.ortiz.aguilar76@ejemplo.com.
+116,889,2026-09-12,chat,Llamó desde el 4425708282 para aclarar un cargo.
+117,921,2026-07-02,sucursal,Queja por el tiempo de espera en sucursal.
+118,690,2026-02-03,chat,Solicita su estado de cuenta de julio.
+119,957,2026-02-07,sucursal,Solicita su estado de cuenta de julio.
+120,249,2026-04-11,chat,Pregunta por los requisitos de la tarjeta de crédito.
+121,189,2026-04-13,chat,El cliente pide actualizar su correo a luis.molina.nunez17@mail.test.
+122,996,2026-07-12,telefono,No reconoce la compra con tarjeta 4152 3138 9503 5149.
+123,163,2026-05-03,telefono,"Vive en Calle Ruiz 28, León, pide cambio de domicilio."
+124,415,2026-01-11,chat,"Vive en Calle Vega 351, León, pide cambio de domicilio."
+125,506,2026-01-07,sucursal,El cliente pide actualizar su correo a ana.ortiz.castillo26@correo.mx.
+126,945,2026-03-20,sucursal,Queja por el tiempo de espera en sucursal.
+127,737,2026-01-08,chat,Llamó desde el 4424400624 para aclarar un cargo.
+128,296,2026-04-19,sucursal,Pregunta por los requisitos de la tarjeta de crédito.
+129,124,2026-01-10,chat,Llamó desde el 4428105242 para aclarar un cargo.
+130,872,2026-01-18,chat,Pregunta por los requisitos de la tarjeta de crédito.
+131,8,2026-07-11,chat,"Vive en Calle Aguilar 898, Puebla, pide cambio de domicilio."
+132,579,2026-05-20,chat,No reconoce la compra con tarjeta 4152 3138 9025 6380.
+133,447,2026-06-14,sucursal,El cliente pide actualizar su correo a olga.vega.molina27@correo.mx.
+134,606,2026-01-30,chat,"Su CURP es CROX840720MAJBNF69, validar identidad."
+135,31,2026-09-24,sucursal,Pregunta por los requisitos de la tarjeta de crédito.
+136,96,2026-09-23,chat,"Su CURP es RSKX700826MANNNY86, validar identidad."
+137,571,2026-08-01,telefono,No reconoce la compra con tarjeta 4152 3138 4723 1274.
+138,929,2026-03-11,chat,El cliente pide actualizar su correo a javier.ramirez.rojas25@ejemplo.com.
+139,688,2026-06-30,telefono,"Vive en Calle Peña 844, Tijuana, pide cambio de domicilio."
+140,642,2026-06-17,sucursal,Llamó desde el 4428582462 para aclarar un cargo.
+141,633,2026-01-14,chat,"Su CURP es HVHX741106HGZQDG92, validar identidad."
+142,432,2026-03-07,chat,"Su CURP es VFEX790505HALJPC77, validar identidad."
+143,377,2026-06-26,chat,Solicita su estado de cuenta de julio.
+144,368,2025-12-30,telefono,No reconoce la compra con tarjeta 4152 3138 8145 6071.
+145,548,2026-01-31,chat,Queja por el tiempo de espera en sucursal.
+146,207,2025-12-13,telefono,El cliente pide actualizar su correo a ximena.ramirez.salazar62@ejemplo.com.
+147,220,2026-08-20,chat,Queja por el tiempo de espera en sucursal.
+148,927,2026-03-01,telefono,Queja por el tiempo de espera en sucursal.
+149,51,2026-03-05,chat,Llamó desde el 4422683877 para aclarar un cargo.
+150,922,2026-02-01,telefono,Pregunta por los requisitos de la tarjeta de crédito.
+151,304,2026-09-24,telefono,Solicita su estado de cuenta de julio.
+152,733,2026-05-25,chat,Solicita su estado de cuenta de julio.
+153,535,2026-01-20,chat,Solicita su estado de cuenta de julio.
+154,373,2026-01-28,telefono,"Vive en Calle Herrera 302, Guadalajara, pide cambio de domicilio."
+155,546,2026-02-17,sucursal,"Vive en Calle Campos 598, León, pide cambio de domicilio."
+156,937,2026-08-16,telefono,Llamó desde el 4421915306 para aclarar un cargo.
+157,295,2025-12-14,chat,El cliente pide actualizar su correo a luis.herrera.herrera3@correo.mx.
+158,80,2026-01-17,sucursal,Solicita su estado de cuenta de julio.
+159,507,2026-06-18,telefono,Solicita su estado de cuenta de julio.
+160,600,2026-07-29,telefono,Llamó desde el 4422151721 para aclarar un cargo.
+161,443,2025-12-29,chat,"Su CURP es ANRX700804HEACZY90, validar identidad."
+162,433,2026-03-28,sucursal,No reconoce la compra con tarjeta 4152 3138 9516 2691.
+163,726,2026-07-01,telefono,Solicita su estado de cuenta de julio.
+164,786,2026-07-16,chat,Pregunta por los requisitos de la tarjeta de crédito.
+165,384,2026-04-26,sucursal,No reconoce la compra con tarjeta 4152 3138 3939 6569.
+166,496,2026-06-06,telefono,"Su CURP es VATX711215HIFIOE50, validar identidad."
+167,74,2026-05-06,telefono,El cliente pide actualizar su correo a javier.herrera.ortiz18@mail.test.
+168,733,2026-03-10,sucursal,Queja por el tiempo de espera en sucursal.
+169,637,2026-08-02,telefono,Pregunta por los requisitos de la tarjeta de crédito.
+170,64,2026-01-01,sucursal,Llamó desde el 4427567212 para aclarar un cargo.
+171,137,2026-09-19,sucursal,No reconoce la compra con tarjeta 4152 3138 8252 6220.
+172,113,2026-05-10,chat,Queja por el tiempo de espera en sucursal.
+173,605,2026-01-10,sucursal,Queja por el tiempo de espera en sucursal.
+174,325,2026-09-04,sucursal,"Vive en Calle Díaz 434, Mérida, pide cambio de domicilio."
+175,976,2026-03-20,chat,"Vive en Calle Flores 161, Puebla, pide cambio de domicilio."
+176,415,2026-09-27,sucursal,"Vive en Calle Vega 351, León, pide cambio de domicilio."
+177,892,2026-02-02,telefono,No reconoce la compra con tarjeta 4152 3138 2322 1352.
+178,504,2026-05-18,telefono,"Su CURP es GCVX570610MIOIPS88, validar identidad."
+179,520,2026-09-23,chat,Llamó desde el 4425417281 para aclarar un cargo.
+180,240,2026-05-17,sucursal,"Su CURP es LTFX910711MMKUBR87, validar identidad."
+181,664,2026-08-16,sucursal,Solicita su estado de cuenta de julio.
+182,55,2026-09-20,telefono,El cliente pide actualizar su correo a ximena.mendez.herrera19@ejemplo.com.
+183,390,2025-12-08,telefono,Llamó desde el 4424143884 para aclarar un cargo.
+184,822,2026-01-15,sucursal,Queja por el tiempo de espera en sucursal.
+185,577,2026-01-31,chat,Llamó desde el 4422216884 para aclarar un cargo.
+186,119,2026-04-25,telefono,No reconoce la compra con tarjeta 4152 3138 7456 9033.
+187,629,2026-03-19,telefono,Solicita su estado de cuenta de julio.
+188,591,2026-08-16,chat,Queja por el tiempo de espera en sucursal.
+189,441,2026-06-10,chat,Solicita su estado de cuenta de julio.
+190,556,2026-09-05,sucursal,Llamó desde el 4428071490 para aclarar un cargo.
+191,879,2026-08-06,sucursal,El cliente pide actualizar su correo a sergio.herrera.diaz21@ejemplo.com.
+192,575,2026-08-06,telefono,"Vive en Calle Soto 247, Monterrey, pide cambio de domicilio."
+193,332,2026-03-08,chat,"Vive en Calle López 239, Puebla, pide cambio de domicilio."
+194,580,2026-04-21,sucursal,No reconoce la compra con tarjeta 4152 3138 2483 7354.
+195,87,2026-09-08,chat,Pregunta por los requisitos de la tarjeta de crédito.
+196,130,2026-01-30,telefono,Pregunta por los requisitos de la tarjeta de crédito.
+197,114,2026-09-27,telefono,"Vive en Calle Peña 95, CDMX, pide cambio de domicilio."
+198,237,2026-08-21,chat,Llamó desde el 4425887594 para aclarar un cargo.
+199,486,2026-04-29,sucursal,Queja por el tiempo de espera en sucursal.
+200,318,2026-08-03,chat,Llamó desde el 4428529381 para aclarar un cargo.
+201,920,2025-12-16,sucursal,El cliente pide actualizar su correo a elena.campos.vega51@ejemplo.com.
+202,74,2025-12-16,telefono,Llamó desde el 4426313081 para aclarar un cargo.
+203,760,2025-12-22,chat,Llamó desde el 4427150648 para aclarar un cargo.
+204,592,2026-06-28,chat,"Su CURP es LRKX610528HIXFRM59, validar identidad."
+205,955,2026-04-20,telefono,No reconoce la compra con tarjeta 4152 3138 4138 7229.
+206,430,2026-04-05,sucursal,"Vive en Calle Salazar 835, Monterrey, pide cambio de domicilio."
+207,639,2026-03-06,sucursal,"Su CURP es TGRX530827MXEFCK64, validar identidad."
+208,927,2026-03-04,sucursal,Solicita su estado de cuenta de julio.
+209,197,2026-06-19,telefono,"Su CURP es RRHX741213MMTCAY88, validar identidad."
+210,639,2026-01-27,telefono,Llamó desde el 4426705817 para aclarar un cargo.
+211,670,2026-03-03,telefono,Queja por el tiempo de espera en sucursal.
+212,970,2026-01-20,chat,Pregunta por los requisitos de la tarjeta de crédito.
+213,769,2026-09-22,sucursal,El cliente pide actualizar su correo a maria.castillo.diaz68@correo.mx.
+214,15,2026-06-29,telefono,Pregunta por los requisitos de la tarjeta de crédito.
+215,497,2026-08-21,sucursal,Llamó desde el 4422165808 para aclarar un cargo.
+216,694,2026-02-03,telefono,No reconoce la compra con tarjeta 4152 3138 4666 1577.
+217,715,2026-03-31,sucursal,Pregunta por los requisitos de la tarjeta de crédito.
+218,190,2026-05-31,telefono,Llamó desde el 4424805630 para aclarar un cargo.
+219,510,2026-01-13,sucursal,Queja por el tiempo de espera en sucursal.
+220,113,2026-02-16,sucursal,Solicita su estado de cuenta de julio.
+221,214,2026-09-26,chat,El cliente pide actualizar su correo a javier.flores.mendez49@mail.test.
+222,428,2026-03-23,chat,El cliente pide actualizar su correo a ulises.pena.ruiz60@ejemplo.com.
+223,105,2026-09-11,telefono,No reconoce la compra con tarjeta 4152 3138 8017 4294.
+224,984,2026-09-12,telefono,"Su CURP es ORSX060623HJJISN77, validar identidad."
+225,486,2026-05-27,chat,"Vive en Calle Ortiz 361, León, pide cambio de domicilio."
+226,986,2026-03-18,sucursal,No reconoce la compra con tarjeta 4152 3138 7420 7120.
+227,339,2026-06-02,chat,Solicita su estado de cuenta de julio.
+228,788,2026-06-05,telefono,El cliente pide actualizar su correo a irene.lopez.nunez14@mail.test.
+229,876,2026-08-06,sucursal,Solicita su estado de cuenta de julio.
+230,104,2026-01-11,sucursal,"Su CURP es MNIX870512MSNGZX88, validar identidad."
+231,381,2026-07-14,sucursal,El cliente pide actualizar su correo a fernando.torres.ramirez96@mail.test.
+232,79,2026-05-06,telefono,Llamó desde el 4426771118 para aclarar un cargo.
+233,842,2026-04-25,telefono,Solicita su estado de cuenta de julio.
+234,869,2026-08-13,chat,Llamó desde el 4423155194 para aclarar un cargo.
+235,328,2026-05-10,chat,No reconoce la compra con tarjeta 4152 3138 9581 8087.
+236,309,2025-12-26,chat,No reconoce la compra con tarjeta 4152 3138 4959 7573.
+237,866,2026-05-12,telefono,No reconoce la compra con tarjeta 4152 3138 3013 5312.
+238,718,2026-06-21,sucursal,Solicita su estado de cuenta de julio.
+239,950,2026-01-02,chat,Queja por el tiempo de espera en sucursal.
+240,738,2026-04-11,sucursal,El cliente pide actualizar su correo a hector.salazar.ortiz29@correo.mx.
+241,505,2026-09-23,chat,"Vive en Calle Ortiz 577, Querétaro, pide cambio de domicilio."
+242,169,2026-06-20,sucursal,Solicita su estado de cuenta de julio.
+243,101,2026-01-05,chat,Solicita su estado de cuenta de julio.
+244,313,2026-03-15,sucursal,Queja por el tiempo de espera en sucursal.
+245,373,2026-09-17,telefono,Pregunta por los requisitos de la tarjeta de crédito.
+246,234,2026-02-02,telefono,"Su CURP es VHNX650308MXPVZZ44, validar identidad."
+247,712,2026-04-02,sucursal,El cliente pide actualizar su correo a ximena.aguilar.pena79@correo.mx.
+248,171,2026-02-10,sucursal,No reconoce la compra con tarjeta 4152 3138 1087 3032.
+249,445,2026-08-21,sucursal,Queja por el tiempo de espera en sucursal.
+250,510,2026-07-28,chat,Pregunta por los requisitos de la tarjeta de crédito.
+251,673,2026-02-01,telefono,"Su CURP es SMLX140321HQMOAW96, validar identidad."
+252,272,2026-02-09,chat,Pregunta por los requisitos de la tarjeta de crédito.
+253,753,2026-07-02,telefono,Queja por el tiempo de espera en sucursal.
+254,60,2026-04-17,telefono,El cliente pide actualizar su correo a ulises.lopez.torres3@ejemplo.com.
+255,18,2025-12-15,sucursal,Queja por el tiempo de espera en sucursal.
+256,196,2026-08-15,chat,Pregunta por los requisitos de la tarjeta de crédito.
+257,145,2026-04-30,telefono,Llamó desde el 4426820456 para aclarar un cargo.
+258,376,2026-02-04,sucursal,Solicita su estado de cuenta de julio.
+259,820,2026-07-20,sucursal,Pregunta por los requisitos de la tarjeta de crédito.
+260,737,2026-04-03,chat,Pregunta por los requisitos de la tarjeta de crédito.
+261,306,2026-07-30,telefono,Llamó desde el 4428905341 para aclarar un cargo.
+262,771,2026-06-25,chat,"Su CURP es RPBX020429HVCEHP46, validar identidad."
+263,823,2026-09-22,chat,Pregunta por los requisitos de la tarjeta de crédito.
+264,418,2026-06-02,chat,El cliente pide actualizar su correo a hector.ramirez.diaz56@ejemplo.com.
+265,375,2026-05-02,chat,Solicita su estado de cuenta de julio.
+266,934,2026-07-26,telefono,"Vive en Calle Vega 893, Tijuana, pide cambio de domicilio."
+267,234,2026-08-16,telefono,Solicita su estado de cuenta de julio.
+268,76,2026-04-03,chat,Llamó desde el 4428929184 para aclarar un cargo.
+269,474,2025-12-24,sucursal,"Su CURP es PGXX820723MPGGFA39, validar identidad."
+270,980,2026-06-29,telefono,El cliente pide actualizar su correo a gabriela.ramirez.nunez30@correo.mx.
+271,50,2026-03-07,chat,"Vive en Calle Flores 888, Monterrey, pide cambio de domicilio."
+272,262,2026-09-08,sucursal,Solicita su estado de cuenta de julio.
+273,501,2026-05-16,sucursal,El cliente pide actualizar su correo a javier.torres.salazar46@mail.test.
+274,997,2026-07-26,chat,Llamó desde el 4425919638 para aclarar un cargo.
+275,19,2026-08-16,chat,"Vive en Calle Ortiz 120, Querétaro, pide cambio de domicilio."
+276,12,2026-09-01,sucursal,El cliente pide actualizar su correo a bruno.aguilar.nunez70@ejemplo.com.
+277,523,2026-01-27,chat,"Su CURP es VCFX030613MGXUSN42, validar identidad."
+278,769,2026-07-16,telefono,Queja por el tiempo de espera en sucursal.
+279,331,2026-09-22,sucursal,Pregunta por los requisitos de la tarjeta de crédito.
+280,575,2026-06-12,telefono,Llamó desde el 4429003884 para aclarar un cargo.
+281,172,2026-05-15,sucursal,"Su CURP es STIX980829HPVQMQ31, validar identidad."
+282,131,2026-01-29,chat,El cliente pide actualizar su correo a elena.rojas.flores95@ejemplo.com.
+283,905,2026-08-25,chat,Queja por el tiempo de espera en sucursal.
+284,951,2026-04-25,chat,El cliente pide actualizar su correo a sergio.ruiz.rojas83@ejemplo.com.
+285,511,2026-03-10,chat,"Vive en Calle Molina 674, Querétaro, pide cambio de domicilio."
+286,222,2026-02-27,telefono,Queja por el tiempo de espera en sucursal.
+287,391,2025-12-12,chat,Queja por el tiempo de espera en sucursal.
+288,117,2025-12-10,telefono,"Su CURP es DRTX100426HTUYGH32, validar identidad."
+289,426,2026-06-29,telefono,"Vive en Calle Peña 24, Puebla, pide cambio de domicilio."
+290,904,2026-03-23,chat,Llamó desde el 4427755603 para aclarar un cargo.
+291,850,2026-07-29,sucursal,El cliente pide actualizar su correo a rosa.nunez.mendez87@correo.mx.
+292,242,2026-06-10,telefono,Queja por el tiempo de espera en sucursal.
+293,575,2026-02-28,sucursal,Llamó desde el 4429003884 para aclarar un cargo.
+294,691,2026-01-31,sucursal,"Su CURP es DVSX181021HYRWSL46, validar identidad."
+295,892,2026-03-25,chat,No reconoce la compra con tarjeta 4152 3138 5945 9214.
+296,795,2026-02-25,telefono,Solicita su estado de cuenta de julio.
+297,90,2026-04-13,telefono,Pregunta por los requisitos de la tarjeta de crédito.
+298,335,2026-04-20,chat,"Su CURP es CHSX900606HYHNCB84, validar identidad."
+299,882,2025-12-28,chat,Llamó desde el 4428956458 para aclarar un cargo.
+300,187,2026-09-08,sucursal,No reconoce la compra con tarjeta 4152 3138 1074 9932.
+301,19,2026-05-03,telefono,"Vive en Calle Ortiz 120, Querétaro, pide cambio de domicilio."
+302,857,2026-09-03,telefono,El cliente pide actualizar su correo a ulises.herrera.ruiz58@correo.mx.
+303,415,2026-08-01,sucursal,Pregunta por los requisitos de la tarjeta de crédito.
+304,658,2026-03-30,sucursal,"Su CURP es THCX960423HSCQOG63, validar identidad."
+305,931,2026-09-21,telefono,El cliente pide actualizar su correo a javier.campos.molina15@ejemplo.com.
+306,948,2026-02-17,chat,No reconoce la compra con tarjeta 4152 3138 6796 9410.
+307,548,2026-04-03,chat,Solicita su estado de cuenta de julio.
+308,75,2026-03-13,sucursal,"Vive en Calle Molina 257, León, pide cambio de domicilio."
+309,841,2026-03-05,telefono,Solicita su estado de cuenta de julio.
+310,856,2026-01-30,telefono,Solicita su estado de cuenta de julio.
+311,366,2025-12-06,chat,Solicita su estado de cuenta de julio.
+312,755,2026-06-22,sucursal,El cliente pide actualizar su correo a olga.soto.vega27@ejemplo.com.
+313,777,2026-06-13,chat,Llamó desde el 4425908096 para aclarar un cargo.
+314,236,2026-04-03,sucursal,Solicita su estado de cuenta de julio.
+315,835,2026-09-05,chat,Llamó desde el 4428166413 para aclarar un cargo.
+316,908,2026-07-05,sucursal,Pregunta por los requisitos de la tarjeta de crédito.
+317,148,2026-02-27,chat,No reconoce la compra con tarjeta 4152 3138 8282 3512.
+318,502,2026-02-04,telefono,Solicita su estado de cuenta de julio.
+319,985,2026-08-21,sucursal,No reconoce la compra con tarjeta 4152 3138 7520 1421.
+320,15,2026-06-25,telefono,"Vive en Calle Méndez 307, Monterrey, pide cambio de domicilio."
+321,198,2026-07-12,telefono,Queja por el tiempo de espera en sucursal.
+322,632,2026-09-03,telefono,El cliente pide actualizar su correo a elena.castillo.diaz27@correo.mx.
+323,212,2026-09-30,chat,El cliente pide actualizar su correo a gabriela.soto.diaz26@mail.test.
+324,814,2026-04-07,telefono,Solicita su estado de cuenta de julio.
+325,372,2026-07-19,chat,Queja por el tiempo de espera en sucursal.
+326,947,2026-08-24,chat,Queja por el tiempo de espera en sucursal.
+327,570,2026-02-25,telefono,Queja por el tiempo de espera en sucursal.
+328,100,2026-06-13,telefono,Pregunta por los requisitos de la tarjeta de crédito.
+329,568,2026-06-25,chat,Solicita su estado de cuenta de julio.
+330,997,2026-07-19,chat,Pregunta por los requisitos de la tarjeta de crédito.
+331,225,2026-06-30,chat,No reconoce la compra con tarjeta 4152 3138 5483 2514.
+332,444,2026-07-07,sucursal,"Vive en Calle Herrera 391, Tijuana, pide cambio de domicilio."
+333,742,2026-06-19,sucursal,No reconoce la compra con tarjeta 4152 3138 8678 6184.
+334,81,2026-03-01,telefono,"Su CURP es MRMX891118MINSBY93, validar identidad."
+335,631,2026-04-05,sucursal,Llamó desde el 4426079227 para aclarar un cargo.
+336,612,2026-04-07,telefono,Llamó desde el 4422913429 para aclarar un cargo.
+337,338,2026-05-14,sucursal,Queja por el tiempo de espera en sucursal.
+338,813,2026-04-20,sucursal,"Su CURP es CSLX800218MNLRNP86, validar identidad."
+339,257,2026-06-22,chat,Pregunta por los requisitos de la tarjeta de crédito.
+340,167,2025-12-14,sucursal,"Vive en Calle Díaz 146, CDMX, pide cambio de domicilio."
+341,20,2026-02-18,sucursal,Solicita su estado de cuenta de julio.
+342,826,2026-02-26,chat,Pregunta por los requisitos de la tarjeta de crédito.
+343,264,2026-09-24,chat,Solicita su estado de cuenta de julio.
+344,936,2026-07-29,telefono,Llamó desde el 4424267346 para aclarar un cargo.
+345,955,2026-04-12,sucursal,No reconoce la compra con tarjeta 4152 3138 4673 3331.
+346,403,2025-12-31,chat,"Su CURP es VSMX890630MCAPWT49, validar identidad."
+347,73,2026-07-08,chat,Solicita su estado de cuenta de julio.
+348,53,2026-01-05,chat,Queja por el tiempo de espera en sucursal.
+349,313,2026-06-13,chat,Llamó desde el 4422952477 para aclarar un cargo.
+350,731,2026-06-23,sucursal,El cliente pide actualizar su correo a ulises.ramirez.aguilar27@ejemplo.com.
+351,678,2026-03-06,chat,El cliente pide actualizar su correo a valeria.lopez.vega60@correo.mx.
+352,240,2026-03-25,telefono,"Su CURP es LTFX910711MMKUBR87, validar identidad."
+353,328,2025-12-11,chat,"Vive en Calle Torres 398, Mérida, pide cambio de domicilio."
+354,582,2026-05-11,chat,"Su CURP es HDHX840220HGOBTK29, validar identidad."
+355,706,2026-03-30,sucursal,Pregunta por los requisitos de la tarjeta de crédito.
+356,979,2026-04-14,telefono,Solicita su estado de cuenta de julio.
+357,69,2025-12-16,sucursal,No reconoce la compra con tarjeta 4152 3138 7259 4118.
+358,857,2026-03-16,sucursal,"Vive en Calle Flores 581, Puebla, pide cambio de domicilio."
+359,505,2026-01-07,chat,Pregunta por los requisitos de la tarjeta de crédito.
+360,280,2026-03-16,telefono,"Vive en Calle Ruiz 757, Monterrey, pide cambio de domicilio."
+361,548,2026-08-24,sucursal,No reconoce la compra con tarjeta 4152 3138 7316 4577.
+362,892,2026-02-17,sucursal,Llamó desde el 4421835555 para aclarar un cargo.
+363,620,2026-03-11,sucursal,Llamó desde el 4421076789 para aclarar un cargo.
+364,52,2025-12-10,chat,"Su CURP es GAGX160509HEGXBW50, validar identidad."
+365,269,2026-01-01,telefono,El cliente pide actualizar su correo a ana.herrera.aguilar88@mail.test.
+366,891,2026-05-31,sucursal,Queja por el tiempo de espera en sucursal.
+367,401,2026-07-06,telefono,Pregunta por los requisitos de la tarjeta de crédito.
+368,694,2026-03-17,telefono,Pregunta por los requisitos de la tarjeta de crédito.
+369,853,2026-04-18,chat,"Vive en Calle Torres 532, Tijuana, pide cambio de domicilio."
+370,718,2026-06-28,sucursal,Solicita su estado de cuenta de julio.
+371,522,2026-08-09,chat,Llamó desde el 4428386855 para aclarar un cargo.
+372,510,2026-05-30,telefono,Pregunta por los requisitos de la tarjeta de crédito.
+373,744,2026-09-04,chat,"Vive en Calle Vega 303, Guadalajara, pide cambio de domicilio."
+374,998,2026-08-08,chat,Llamó desde el 4425454022 para aclarar un cargo.
+375,42,2026-06-30,telefono,"Su CURP es RCGX610622MJZZTC68, validar identidad."
+376,206,2026-04-19,chat,Llamó desde el 4428166583 para aclarar un cargo.
+377,125,2026-04-22,chat,"Su CURP es SFGX161129HXWASA46, validar identidad."
+378,876,2026-04-03,chat,Llamó desde el 4428583402 para aclarar un cargo.
+379,116,2026-01-14,telefono,"Vive en Calle Aguilar 23, León, pide cambio de domicilio."
+380,871,2026-09-18,telefono,El cliente pide actualizar su correo a valeria.pena.flores71@ejemplo.com.
+381,829,2026-09-04,chat,Queja por el tiempo de espera en sucursal.
+382,411,2026-09-27,chat,"Su CURP es NRDX670731HNNYNI63, validar identidad."
+383,291,2026-03-22,sucursal,El cliente pide actualizar su correo a olga.campos.rojas17@correo.mx.
+384,832,2026-09-20,sucursal,Queja por el tiempo de espera en sucursal.
+385,206,2026-09-24,chat,No reconoce la compra con tarjeta 4152 3138 8976 3515.
+386,118,2026-05-16,sucursal,Pregunta por los requisitos de la tarjeta de crédito.
+387,756,2026-05-01,sucursal,No reconoce la compra con tarjeta 4152 3138 6390 8681.
+388,895,2026-01-04,chat,El cliente pide actualizar su correo a gabriela.diaz.vega49@ejemplo.com.
+389,429,2026-01-23,telefono,Llamó desde el 4426083637 para aclarar un cargo.
+390,426,2026-07-16,sucursal,Llamó desde el 4426964511 para aclarar un cargo.
+391,79,2026-04-16,chat,"Su CURP es VSKX860201HVOFJW17, validar identidad."
+392,52,2026-03-29,telefono,Llamó desde el 4422866299 para aclarar un cargo.
+393,973,2026-03-07,telefono,Llamó desde el 4428581411 para aclarar un cargo.
+394,567,2026-08-03,chat,"Su CURP es DMGX860908MUFAFM51, validar identidad."
+395,538,2026-08-29,chat,Llamó desde el 4428017885 para aclarar un cargo.
+396,844,2026-02-25,sucursal,No reconoce la compra con tarjeta 4152 3138 9671 6877.
+397,573,2026-01-20,chat,Solicita su estado de cuenta de julio.
+398,666,2026-06-05,sucursal,Pregunta por los requisitos de la tarjeta de crédito.
+399,557,2026-03-12,telefono,Pregunta por los requisitos de la tarjeta de crédito.
+400,718,2026-03-17,chat,Solicita su estado de cuenta de julio.
+401,921,2026-08-29,chat,Solicita su estado de cuenta de julio.
+402,784,2026-06-15,sucursal,Llamó desde el 4428039519 para aclarar un cargo.
+403,352,2026-05-19,sucursal,Llamó desde el 4421915743 para aclarar un cargo.
+404,154,2026-09-04,telefono,"Vive en Calle Aguilar 841, Guadalajara, pide cambio de domicilio."
+405,651,2026-08-31,sucursal,El cliente pide actualizar su correo a rosa.ortiz.torres33@mail.test.
+406,770,2026-09-12,telefono,Pregunta por los requisitos de la tarjeta de crédito.
+407,945,2025-12-19,chat,Pregunta por los requisitos de la tarjeta de crédito.
+408,814,2026-06-26,sucursal,"Vive en Calle Vega 103, Querétaro, pide cambio de domicilio."
+409,213,2026-01-22,chat,Llamó desde el 4421415024 para aclarar un cargo.
+410,888,2026-03-08,chat,Llamó desde el 4425551117 para aclarar un cargo.
+411,48,2026-08-12,sucursal,"Vive en Calle Vega 625, León, pide cambio de domicilio."
+412,90,2026-07-18,telefono,El cliente pide actualizar su correo a carla.flores.campos2@correo.mx.
+413,243,2026-09-30,chat,Llamó desde el 4421134025 para aclarar un cargo.
+414,34,2026-04-08,telefono,Llamó desde el 4422726577 para aclarar un cargo.
+415,958,2026-05-13,telefono,El cliente pide actualizar su correo a gabriela.salazar.ramirez24@correo.mx.
+416,661,2026-08-14,telefono,Llamó desde el 4429841265 para aclarar un cargo.
+417,983,2026-01-06,telefono,"Vive en Calle Ramírez 583, Monterrey, pide cambio de domicilio."
+418,5,2026-08-09,chat,No reconoce la compra con tarjeta 4152 3138 4633 9416.
+419,141,2026-08-02,telefono,Queja por el tiempo de espera en sucursal.
+420,997,2026-06-17,telefono,Pregunta por los requisitos de la tarjeta de crédito.
+421,450,2026-01-13,telefono,Pregunta por los requisitos de la tarjeta de crédito.
+422,150,2026-09-19,chat,Queja por el tiempo de espera en sucursal.
+423,261,2026-08-19,sucursal,"Su CURP es MNUX121130MLQBSZ87, validar identidad."
+424,790,2026-08-13,chat,El cliente pide actualizar su correo a maria.aguilar.diaz26@mail.test.
+425,935,2026-06-11,sucursal,"Vive en Calle Molina 7, Puebla, pide cambio de domicilio."
+426,502,2026-04-04,telefono,Pregunta por los requisitos de la tarjeta de crédito.
+427,562,2026-08-27,telefono,No reconoce la compra con tarjeta 4152 3138 1279 4128.
+428,823,2026-01-21,sucursal,Llamó desde el 4425906667 para aclarar un cargo.
+429,151,2026-09-16,chat,Llamó desde el 4421987112 para aclarar un cargo.
+430,968,2026-07-12,sucursal,"Su CURP es RMXX770226MVVKAF24, validar identidad."
+431,716,2026-08-03,chat,El cliente pide actualizar su correo a maria.lopez.campos71@mail.test.
+432,213,2026-08-12,sucursal,Queja por el tiempo de espera en sucursal.
+433,258,2026-03-17,telefono,Queja por el tiempo de espera en sucursal.
+434,341,2026-09-19,telefono,No reconoce la compra con tarjeta 4152 3138 3348 3543.
+435,264,2026-04-21,telefono,Llamó desde el 4427934173 para aclarar un cargo.
+436,359,2026-08-06,sucursal,Pregunta por los requisitos de la tarjeta de crédito.
+437,981,2026-04-07,chat,"Vive en Calle Peña 187, Mérida, pide cambio de domicilio."
+438,95,2026-02-12,sucursal,"Vive en Calle López 93, Mérida, pide cambio de domicilio."
+439,763,2026-02-12,chat,Solicita su estado de cuenta de julio.
+440,74,2026-01-01,sucursal,Queja por el tiempo de espera en sucursal.
+441,341,2026-08-23,sucursal,El cliente pide actualizar su correo a rosa.salazar.salazar54@mail.test.
+442,976,2025-12-25,telefono,No reconoce la compra con tarjeta 4152 3138 1947 8485.
+443,238,2026-07-29,sucursal,"Vive en Calle Ruiz 750, Querétaro, pide cambio de domicilio."
+444,402,2025-12-23,chat,"Su CURP es GCTX630424HMPZKA89, validar identidad."
+445,475,2026-09-11,sucursal,"Su CURP es PVXX691116MWALZN88, validar identidad."
+446,118,2026-06-26,telefono,"Su CURP es SRBX700530HLCOVQ77, validar identidad."
+447,525,2026-03-14,sucursal,Llamó desde el 4427756331 para aclarar un cargo.
+448,141,2026-06-28,sucursal,"Su CURP es CLKX090412MAICUD47, validar identidad."
+449,229,2026-08-17,sucursal,No reconoce la compra con tarjeta 4152 3138 6862 9545.
+450,55,2026-03-29,sucursal,"Su CURP es MHXX010224HEGTGH82, validar identidad."
+451,968,2026-07-28,chat,Pregunta por los requisitos de la tarjeta de crédito.
+452,764,2026-01-25,chat,"Su CURP es VOJX620331MMGGMO58, validar identidad."
+453,115,2026-08-12,sucursal,No reconoce la compra con tarjeta 4152 3138 8476 1379.
+454,26,2026-03-14,chat,Queja por el tiempo de espera en sucursal.
+455,66,2026-08-04,telefono,"Vive en Calle Campos 299, Guadalajara, pide cambio de domicilio."
+456,775,2026-06-08,telefono,"Su CURP es SRAX510829HFUKXH82, validar identidad."
+457,937,2026-05-05,telefono,"Su CURP es RNRX140326MYLEEW34, validar identidad."
+458,381,2026-05-23,sucursal,Llamó desde el 4421514733 para aclarar un cargo.
+459,716,2026-04-02,sucursal,Solicita su estado de cuenta de julio.
+460,260,2026-06-15,sucursal,No reconoce la compra con tarjeta 4152 3138 3173 5784.
+461,646,2026-02-13,chat,Solicita su estado de cuenta de julio.
+462,184,2026-01-25,telefono,El cliente pide actualizar su correo a noe.castillo.herrera26@mail.test.
+463,992,2026-08-03,sucursal,Solicita su estado de cuenta de julio.
+464,655,2026-04-19,telefono,No reconoce la compra con tarjeta 4152 3138 1157 5432.
+465,716,2026-07-09,sucursal,Queja por el tiempo de espera en sucursal.
+466,352,2026-08-08,telefono,Solicita su estado de cuenta de julio.
+467,684,2026-05-19,chat,Queja por el tiempo de espera en sucursal.
+468,201,2026-09-20,sucursal,Pregunta por los requisitos de la tarjeta de crédito.
+469,154,2025-12-23,telefono,"Su CURP es DRAX930602MXMENQ11, validar identidad."
+470,449,2026-09-01,telefono,Llamó desde el 4421777719 para aclarar un cargo.
+471,735,2026-09-24,chat,"Vive en Calle Gil 532, Mérida, pide cambio de domicilio."
+472,786,2026-09-16,sucursal,Llamó desde el 4429974711 para aclarar un cargo.
+473,706,2026-07-12,sucursal,Pregunta por los requisitos de la tarjeta de crédito.
+474,708,2026-05-14,chat,"Su CURP es SCIX700831MFVPSR51, validar identidad."
+475,872,2026-08-14,chat,Pregunta por los requisitos de la tarjeta de crédito.
+476,487,2026-05-04,chat,Solicita su estado de cuenta de julio.
+477,758,2026-06-11,chat,"Su CURP es PVRX591004MFJPCU43, validar identidad."
+478,116,2026-06-23,chat,Llamó desde el 4421044798 para aclarar un cargo.
+479,766,2026-05-04,sucursal,Llamó desde el 4424788254 para aclarar un cargo.
+480,641,2026-07-28,sucursal,El cliente pide actualizar su correo a javier.castillo.nunez69@correo.mx.
+481,645,2026-09-29,telefono,El cliente pide actualizar su correo a bruno.campos.vega62@ejemplo.com.
+482,998,2026-09-29,chat,Pregunta por los requisitos de la tarjeta de crédito.
+483,253,2026-09-25,telefono,"Su CURP es STCX040822HNSBAH40, validar identidad."
+484,230,2026-08-13,chat,Pregunta por los requisitos de la tarjeta de crédito.
+485,913,2026-03-29,chat,Queja por el tiempo de espera en sucursal.
+486,315,2026-05-25,chat,Queja por el tiempo de espera en sucursal.
+487,422,2025-12-08,chat,El cliente pide actualizar su correo a noe.flores.rojas78@mail.test.
+488,697,2026-01-29,sucursal,"Su CURP es LCUX890607HLHPUJ43, validar identidad."
+489,953,2026-01-23,sucursal,"Su CURP es LRLX910114MTAZOI81, validar identidad."
+490,471,2026-01-11,chat,Solicita su estado de cuenta de julio.
+491,549,2026-05-23,chat,Solicita su estado de cuenta de julio.
+492,85,2026-03-19,telefono,El cliente pide actualizar su correo a elena.nunez.gil95@mail.test.
+493,488,2025-12-25,chat,El cliente pide actualizar su correo a irene.aguilar.torres54@ejemplo.com.
+494,232,2026-09-21,telefono,"Vive en Calle Torres 518, Mérida, pide cambio de domicilio."
+495,795,2026-02-21,telefono,No reconoce la compra con tarjeta 4152 3138 7534 1955.
+496,975,2026-05-19,sucursal,Pregunta por los requisitos de la tarjeta de crédito.
+497,380,2026-04-02,sucursal,Pregunta por los requisitos de la tarjeta de crédito.
+498,165,2026-05-11,telefono,"Vive en Calle Gil 528, CDMX, pide cambio de domicilio."
+499,658,2026-07-16,sucursal,"Vive en Calle Flores 45, Puebla, pide cambio de domicilio."
+500,656,2026-01-17,telefono,Solicita su estado de cuenta de julio.
+501,836,2026-05-31,chat,No reconoce la compra con tarjeta 4152 3138 3689 2668.
+502,111,2026-09-22,sucursal,"Vive en Calle Núñez 263, CDMX, pide cambio de domicilio."
+503,629,2026-04-03,telefono,Llamó desde el 4423254350 para aclarar un cargo.
+504,56,2026-03-14,telefono,Solicita su estado de cuenta de julio.
+505,252,2026-01-19,telefono,No reconoce la compra con tarjeta 4152 3138 4041 2882.
+506,420,2026-02-25,chat,Queja por el tiempo de espera en sucursal.
+507,102,2026-08-24,sucursal,Llamó desde el 4426062672 para aclarar un cargo.
+508,673,2026-02-02,telefono,Llamó desde el 4427798483 para aclarar un cargo.
+509,135,2026-04-09,chat,Llamó desde el 4425222878 para aclarar un cargo.
+510,150,2026-04-05,sucursal,Pregunta por los requisitos de la tarjeta de crédito.
+511,796,2026-08-09,sucursal,Solicita su estado de cuenta de julio.
+512,759,2026-08-01,chat,"Vive en Calle Soto 206, Guadalajara, pide cambio de domicilio."
+513,965,2026-01-31,telefono,Pregunta por los requisitos de la tarjeta de crédito.
+514,824,2026-02-23,chat,"Vive en Calle Rojas 529, Guadalajara, pide cambio de domicilio."
+515,938,2026-05-07,sucursal,El cliente pide actualizar su correo a ximena.nunez.mendez21@ejemplo.com.
+516,736,2026-07-23,sucursal,Pregunta por los requisitos de la tarjeta de crédito.
+517,452,2026-01-20,telefono,El cliente pide actualizar su correo a maria.campos.ramirez26@correo.mx.
+518,567,2026-05-19,sucursal,Solicita su estado de cuenta de julio.
+519,532,2026-03-22,chat,Pregunta por los requisitos de la tarjeta de crédito.
+520,280,2026-07-19,chat,Solicita su estado de cuenta de julio.
+521,523,2025-12-28,chat,El cliente pide actualizar su correo a fernando.vega.castillo88@mail.test.
+522,942,2026-01-02,telefono,Queja por el tiempo de espera en sucursal.
+523,109,2026-09-12,sucursal,"Vive en Calle Méndez 149, Guadalajara, pide cambio de domicilio."
+524,322,2026-08-27,sucursal,"Vive en Calle Ruiz 532, Mérida, pide cambio de domicilio."
+525,885,2026-08-26,telefono,El cliente pide actualizar su correo a elena.torres.soto4@mail.test.
+526,245,2026-09-26,telefono,Pregunta por los requisitos de la tarjeta de crédito.
+527,586,2026-06-07,telefono,"Su CURP es LPBX870201HJAZGV41, validar identidad."
+528,451,2026-05-10,sucursal,Solicita su estado de cuenta de julio.
+529,263,2025-12-17,telefono,"Su CURP es FORX850113HTOUNO75, validar identidad."
+530,972,2026-07-02,telefono,Queja por el tiempo de espera en sucursal.
+531,719,2025-12-18,sucursal,Solicita su estado de cuenta de julio.
+532,129,2026-08-02,telefono,"Su CURP es RCDX890705HIAAKF79, validar identidad."
+533,397,2026-03-14,telefono,No reconoce la compra con tarjeta 4152 3138 4034 3379.
+534,993,2026-09-18,sucursal,No reconoce la compra con tarjeta 4152 3138 8546 6239.
+535,939,2026-02-23,chat,Llamó desde el 4426313856 para aclarar un cargo.
+536,602,2026-03-23,sucursal,Pregunta por los requisitos de la tarjeta de crédito.
+537,960,2026-01-12,sucursal,Pregunta por los requisitos de la tarjeta de crédito.
+538,563,2026-07-08,sucursal,El cliente pide actualizar su correo a sergio.rojas.gil54@correo.mx.
+539,676,2025-12-21,telefono,Llamó desde el 4421226075 para aclarar un cargo.
+540,888,2026-06-27,chat,No reconoce la compra con tarjeta 4152 3138 9665 8130.
+541,326,2026-05-06,sucursal,"Su CURP es RSFX110106MFZFTA55, validar identidad."
+542,641,2026-02-10,telefono,Solicita su estado de cuenta de julio.
+543,602,2026-09-30,sucursal,Solicita su estado de cuenta de julio.
+544,437,2026-08-12,sucursal,Queja por el tiempo de espera en sucursal.
+545,477,2026-04-01,telefono,"Vive en Calle Peña 489, León, pide cambio de domicilio."
+546,889,2026-02-12,telefono,Llamó desde el 4425708282 para aclarar un cargo.
+547,833,2026-05-11,telefono,El cliente pide actualizar su correo a ana.ruiz.campos81@correo.mx.
+548,127,2026-03-22,telefono,Solicita su estado de cuenta de julio.
+549,117,2025-12-08,chat,"Su CURP es DRTX100426HTUYGH32, validar identidad."
+550,37,2026-03-12,chat,Llamó desde el 4423737665 para aclarar un cargo.
+551,193,2026-07-19,chat,Pregunta por los requisitos de la tarjeta de crédito.
+552,797,2026-03-05,telefono,"Vive en Calle Núñez 162, Tijuana, pide cambio de domicilio."
+553,287,2026-05-16,telefono,"Su CURP es DAHX640505HFMUCG59, validar identidad."
+554,672,2026-02-22,telefono,Llamó desde el 4427618673 para aclarar un cargo.
+555,638,2026-09-29,telefono,"Su CURP es FMGX510330HNJLIM14, validar identidad."
+556,267,2025-12-29,telefono,Queja por el tiempo de espera en sucursal.
+557,783,2026-07-13,sucursal,Pregunta por los requisitos de la tarjeta de crédito.
+558,951,2026-07-14,chat,"Vive en Calle Vega 320, León, pide cambio de domicilio."
+559,272,2026-05-18,telefono,Pregunta por los requisitos de la tarjeta de crédito.
+560,651,2026-06-21,sucursal,"Su CURP es OTRX520614MVJGSR36, validar identidad."
+561,422,2026-05-05,telefono,"Vive en Calle Flores 588, Puebla, pide cambio de domicilio."
+562,364,2026-05-05,sucursal,Queja por el tiempo de espera en sucursal.
+563,353,2026-07-29,chat,"Vive en Calle Salazar 334, León, pide cambio de domicilio."
+564,970,2026-05-30,sucursal,Queja por el tiempo de espera en sucursal.
+565,80,2025-12-13,chat,"Vive en Calle Vega 625, León, pide cambio de domicilio."
+566,609,2026-02-07,telefono,Solicita su estado de cuenta de julio.
+567,619,2026-02-16,telefono,Solicita su estado de cuenta de julio.
+568,166,2025-12-22,sucursal,"Vive en Calle Ortiz 534, Mérida, pide cambio de domicilio."
+569,855,2026-07-18,sucursal,Pregunta por los requisitos de la tarjeta de crédito.
+570,146,2026-04-08,sucursal,Solicita su estado de cuenta de julio.
+571,592,2026-02-08,sucursal,Pregunta por los requisitos de la tarjeta de crédito.
+572,10,2026-02-05,telefono,Queja por el tiempo de espera en sucursal.
+573,320,2026-01-03,chat,"Su CURP es RCGX160515MSRMEQ39, validar identidad."
+574,82,2026-07-06,telefono,El cliente pide actualizar su correo a karla.torres.rojas75@correo.mx.
+575,930,2026-08-11,sucursal,Queja por el tiempo de espera en sucursal.
+576,209,2026-01-18,chat,Solicita su estado de cuenta de julio.
+577,441,2026-05-27,sucursal,No reconoce la compra con tarjeta 4152 3138 6874 6126.
+578,430,2026-05-04,telefono,Queja por el tiempo de espera en sucursal.
+579,616,2026-05-14,sucursal,"Su CURP es MCSX571210MRQMUK47, validar identidad."
+580,33,2026-09-23,sucursal,No reconoce la compra con tarjeta 4152 3138 8385 5789.
+581,531,2026-08-29,telefono,Llamó desde el 4426534937 para aclarar un cargo.
+582,192,2026-01-31,chat,Pregunta por los requisitos de la tarjeta de crédito.
+583,402,2026-07-17,sucursal,Llamó desde el 4429721511 para aclarar un cargo.
+584,872,2026-06-24,telefono,No reconoce la compra con tarjeta 4152 3138 6632 2565.
+585,139,2026-08-19,chat,Llamó desde el 4427608614 para aclarar un cargo.
+586,954,2026-04-13,telefono,Pregunta por los requisitos de la tarjeta de crédito.
+587,110,2026-02-02,sucursal,Llamó desde el 4428735424 para aclarar un cargo.
+588,42,2026-09-16,telefono,Pregunta por los requisitos de la tarjeta de crédito.
+589,805,2026-07-27,sucursal,Solicita su estado de cuenta de julio.
+590,392,2026-04-23,chat,"Vive en Calle Ruiz 899, Guadalajara, pide cambio de domicilio."
+591,352,2026-07-12,telefono,Pregunta por los requisitos de la tarjeta de crédito.
+592,554,2026-02-07,sucursal,No reconoce la compra con tarjeta 4152 3138 9642 8886.
+593,291,2026-04-07,telefono,No reconoce la compra con tarjeta 4152 3138 1562 4131.
+594,932,2025-12-22,chat,No reconoce la compra con tarjeta 4152 3138 1270 7881.
+595,815,2026-01-11,chat,El cliente pide actualizar su correo a fernando.ramirez.molina33@ejemplo.com.
+596,7,2025-12-20,sucursal,"Su CURP es RSTX080902HLYOYE47, validar identidad."
+597,973,2026-09-02,sucursal,"Vive en Calle Gil 528, Puebla, pide cambio de domicilio."
+598,589,2026-06-26,chat,"Su CURP es RSDX781218HBAWEI54, validar identidad."
+599,654,2026-03-11,telefono,Solicita su estado de cuenta de julio.
+600,810,2026-04-30,chat,Llamó desde el 4426055889 para aclarar un cargo.
+601,586,2026-01-08,sucursal,No reconoce la compra con tarjeta 4152 3138 7754 6119.
+602,884,2026-07-21,chat,"Vive en Calle Gil 91, Puebla, pide cambio de domicilio."
+603,891,2026-08-07,chat,Queja por el tiempo de espera en sucursal.
+604,596,2025-12-22,chat,Pregunta por los requisitos de la tarjeta de crédito.
+605,70,2026-09-03,sucursal,Solicita su estado de cuenta de julio.
+606,67,2026-08-03,chat,Pregunta por los requisitos de la tarjeta de crédito.
+607,166,2025-12-16,telefono,No reconoce la compra con tarjeta 4152 3138 4611 7436.
+608,11,2026-06-29,sucursal,No reconoce la compra con tarjeta 4152 3138 8283 6782.
+609,698,2026-04-22,sucursal,El cliente pide actualizar su correo a luis.castillo.herrera2@ejemplo.com.
+610,837,2026-01-01,chat,"Su CURP es RFMX770404MJEZIB33, validar identidad."
+611,882,2026-07-21,sucursal,"Vive en Calle Campos 444, CDMX, pide cambio de domicilio."
+612,157,2026-07-07,telefono,No reconoce la compra con tarjeta 4152 3138 2144 1030.
+613,226,2026-02-28,sucursal,Queja por el tiempo de espera en sucursal.
+614,315,2026-06-02,sucursal,No reconoce la compra con tarjeta 4152 3138 8352 7693.
+615,978,2026-04-13,sucursal,Queja por el tiempo de espera en sucursal.
+616,276,2026-08-28,sucursal,"Vive en Calle Ortiz 257, Mérida, pide cambio de domicilio."
+617,474,2026-09-16,telefono,Queja por el tiempo de espera en sucursal.
+618,286,2026-08-14,chat,"Vive en Calle Molina 53, Guadalajara, pide cambio de domicilio."
+619,457,2026-05-01,chat,"Su CURP es LTRX051125MBJHNA55, validar identidad."
+620,103,2026-03-21,chat,El cliente pide actualizar su correo a gabriela.ruiz.soto24@ejemplo.com.
+621,54,2026-07-03,telefono,Solicita su estado de cuenta de julio.
+622,503,2026-01-15,sucursal,"Vive en Calle López 787, CDMX, pide cambio de domicilio."
+623,645,2026-09-24,chat,Queja por el tiempo de espera en sucursal.
+624,508,2026-09-15,telefono,"Su CURP es FSVX990220MEKINR24, validar identidad."
+625,389,2026-01-14,telefono,El cliente pide actualizar su correo a irene.lopez.lopez85@ejemplo.com.
+626,112,2026-05-12,sucursal,El cliente pide actualizar su correo a sergio.vega.vega33@correo.mx.
+627,552,2026-03-29,telefono,El cliente pide actualizar su correo a noe.herrera.mendez7@mail.test.
+628,7,2026-08-25,sucursal,No reconoce la compra con tarjeta 4152 3138 3240 6438.
+629,545,2026-08-02,telefono,Solicita su estado de cuenta de julio.
+630,384,2026-09-20,chat,El cliente pide actualizar su correo a karla.rojas.salazar45@mail.test.
+631,624,2026-01-24,telefono,El cliente pide actualizar su correo a karla.campos.molina65@ejemplo.com.
+632,825,2026-03-27,telefono,Solicita su estado de cuenta de julio.
+633,499,2026-07-07,chat,No reconoce la compra con tarjeta 4152 3138 9388 8893.
+634,925,2026-07-10,sucursal,"Su CURP es VTIX940902HAWUGG21, validar identidad."
+635,507,2026-08-28,sucursal,"Vive en Calle Gil 849, Mérida, pide cambio de domicilio."
+636,423,2026-08-21,telefono,No reconoce la compra con tarjeta 4152 3138 5576 9131.
+637,971,2025-12-26,sucursal,Llamó desde el 4426059111 para aclarar un cargo.
+638,491,2026-08-15,sucursal,"Su CURP es ACMX620911MWHPKA57, validar identidad."
+639,853,2026-07-07,telefono,Queja por el tiempo de espera en sucursal.
+640,221,2026-01-14,telefono,"Su CURP es CHAX581013MSOZYP62, validar identidad."
+641,968,2026-05-16,sucursal,"Su CURP es RMXX770226MVVKAF24, validar identidad."
+642,310,2026-07-18,telefono,Llamó desde el 4428042217 para aclarar un cargo.
+643,445,2026-04-15,telefono,El cliente pide actualizar su correo a bruno.ruiz.ramirez74@ejemplo.com.
+644,722,2025-12-26,telefono,El cliente pide actualizar su correo a teresa.diaz.lopez65@ejemplo.com.
+645,112,2026-05-09,telefono,El cliente pide actualizar su correo a sergio.vega.vega33@correo.mx.
+646,636,2026-08-23,sucursal,El cliente pide actualizar su correo a maria.herrera.salazar69@correo.mx.
+647,831,2026-01-25,telefono,El cliente pide actualizar su correo a maria.mendez.rojas62@correo.mx.
+648,432,2026-02-07,chat,Queja por el tiempo de espera en sucursal.
+649,627,2026-06-27,telefono,Llamó desde el 4423069803 para aclarar un cargo.
+650,841,2026-06-12,telefono,Queja por el tiempo de espera en sucursal.
+651,203,2026-09-12,sucursal,"Su CURP es LTEX840913HSGQQI17, validar identidad."
+652,519,2026-05-06,sucursal,"Su CURP es LCVX860621MXGPLT57, validar identidad."
+653,32,2026-07-18,sucursal,"Su CURP es GNXX790622HNBYWR32, validar identidad."
+654,227,2026-03-09,chat,No reconoce la compra con tarjeta 4152 3138 8065 2781.
+655,821,2026-01-04,chat,"Vive en Calle Rojas 888, CDMX, pide cambio de domicilio."
+656,15,2026-05-05,sucursal,El cliente pide actualizar su correo a sergio.aguilar.pena52@ejemplo.com.
+657,226,2026-09-12,chat,No reconoce la compra con tarjeta 4152 3138 9287 6351.
+658,836,2026-01-04,chat,Pregunta por los requisitos de la tarjeta de crédito.
+659,479,2026-02-27,sucursal,"Vive en Calle Ruiz 535, Puebla, pide cambio de domicilio."
+660,761,2025-12-26,chat,Solicita su estado de cuenta de julio.
+661,505,2026-05-14,sucursal,"Vive en Calle Ortiz 577, Querétaro, pide cambio de domicilio."
+662,857,2026-04-13,chat,Pregunta por los requisitos de la tarjeta de crédito.
+663,707,2026-03-17,sucursal,El cliente pide actualizar su correo a rosa.mendez.herrera50@ejemplo.com.
+664,721,2025-12-21,telefono,No reconoce la compra con tarjeta 4152 3138 8592 8527.
+665,889,2026-06-09,telefono,Pregunta por los requisitos de la tarjeta de crédito.
+666,109,2026-04-20,chat,Queja por el tiempo de espera en sucursal.
+667,472,2026-01-18,sucursal,Pregunta por los requisitos de la tarjeta de crédito.
+668,642,2026-04-27,chat,No reconoce la compra con tarjeta 4152 3138 6105 6224.
+669,96,2026-05-11,telefono,Queja por el tiempo de espera en sucursal.
+670,355,2026-09-26,telefono,"Su CURP es NVHX140928HIHGSQ69, validar identidad."
+671,581,2025-12-29,chat,Queja por el tiempo de espera en sucursal.
+672,728,2025-12-15,sucursal,Llamó desde el 4421750791 para aclarar un cargo.
+673,947,2026-03-31,telefono,Queja por el tiempo de espera en sucursal.
+674,890,2026-09-25,chat,Llamó desde el 4425574607 para aclarar un cargo.
+675,175,2026-05-13,telefono,Queja por el tiempo de espera en sucursal.
+676,931,2026-01-07,chat,Pregunta por los requisitos de la tarjeta de crédito.
+677,807,2026-01-23,sucursal,Pregunta por los requisitos de la tarjeta de crédito.
+678,696,2026-09-29,sucursal,El cliente pide actualizar su correo a carla.ortiz.gil73@ejemplo.com.
+679,84,2025-12-27,chat,El cliente pide actualizar su correo a ana.rojas.molina6@correo.mx.
+680,701,2026-04-28,chat,"Vive en Calle Salazar 820, León, pide cambio de domicilio."
+681,141,2025-12-18,telefono,Pregunta por los requisitos de la tarjeta de crédito.
+682,225,2026-07-19,sucursal,El cliente pide actualizar su correo a maria.ortiz.soto46@mail.test.
+683,295,2025-12-13,chat,"Su CURP es HHLX920508HRFOGM68, validar identidad."
+684,893,2025-12-25,telefono,No reconoce la compra con tarjeta 4152 3138 2259 4035.
+685,518,2026-01-15,sucursal,Solicita su estado de cuenta de julio.
+686,567,2026-01-14,telefono,Llamó desde el 4422420951 para aclarar un cargo.
+687,967,2026-02-11,telefono,El cliente pide actualizar su correo a ulises.mendez.nunez20@mail.test.
+688,291,2025-12-24,sucursal,El cliente pide actualizar su correo a olga.campos.rojas17@correo.mx.
+689,305,2026-06-13,telefono,Solicita su estado de cuenta de julio.
+690,5,2026-02-19,telefono,No reconoce la compra con tarjeta 4152 3138 5147 6606.
+691,619,2026-08-07,telefono,Pregunta por los requisitos de la tarjeta de crédito.
+692,873,2026-06-28,chat,Pregunta por los requisitos de la tarjeta de crédito.
+693,218,2026-09-15,sucursal,Solicita su estado de cuenta de julio.
+694,95,2026-07-15,sucursal,No reconoce la compra con tarjeta 4152 3138 2778 5973.
+695,113,2026-03-03,chat,Queja por el tiempo de espera en sucursal.
+696,334,2026-06-30,telefono,El cliente pide actualizar su correo a karla.rojas.flores17@correo.mx.
+697,348,2026-03-14,chat,Solicita su estado de cuenta de julio.
+698,127,2026-02-06,sucursal,No reconoce la compra con tarjeta 4152 3138 8273 2750.
+699,161,2026-09-23,chat,"Vive en Calle Soto 543, Querétaro, pide cambio de domicilio."
+700,189,2026-09-11,sucursal,No reconoce la compra con tarjeta 4152 3138 2403 4259.
+701,573,2026-04-30,telefono,"Su CURP es CHTX960101HSTMXJ11, validar identidad."
+702,121,2026-08-11,telefono,No reconoce la compra con tarjeta 4152 3138 1889 2246.
+703,289,2026-08-17,telefono,Llamó desde el 4423914573 para aclarar un cargo.
+704,580,2026-05-03,chat,Pregunta por los requisitos de la tarjeta de crédito.
+705,241,2026-07-09,chat,El cliente pide actualizar su correo a olga.molina.rojas37@mail.test.
+706,720,2026-02-13,chat,Llamó desde el 4421940574 para aclarar un cargo.
+707,493,2026-01-30,telefono,Pregunta por los requisitos de la tarjeta de crédito.
+708,260,2026-06-23,telefono,Llamó desde el 4425637109 para aclarar un cargo.
+709,23,2026-08-09,telefono,Pregunta por los requisitos de la tarjeta de crédito.
+710,326,2026-02-27,chat,Pregunta por los requisitos de la tarjeta de crédito.
+711,734,2026-06-18,sucursal,Solicita su estado de cuenta de julio.
+712,126,2026-06-14,chat,Pregunta por los requisitos de la tarjeta de crédito.
+713,553,2026-02-22,sucursal,Pregunta por los requisitos de la tarjeta de crédito.
+714,879,2026-04-20,telefono,No reconoce la compra con tarjeta 4152 3138 6064 3308.
+715,273,2026-01-15,sucursal,"Su CURP es PCBX520731MSAIUH70, validar identidad."
+716,436,2026-07-02,chat,Llamó desde el 4424132812 para aclarar un cargo.
+717,844,2026-05-15,sucursal,"Vive en Calle Herrera 765, CDMX, pide cambio de domicilio."
+718,110,2026-06-11,telefono,"Su CURP es RMPX130805HBSOCE43, validar identidad."
+719,750,2026-06-18,sucursal,"Su CURP es CFLX910509HDNIYT10, validar identidad."
+720,613,2026-04-12,telefono,Pregunta por los requisitos de la tarjeta de crédito.
+721,583,2026-01-04,telefono,Queja por el tiempo de espera en sucursal.
+722,927,2026-03-31,telefono,Pregunta por los requisitos de la tarjeta de crédito.
+723,308,2025-12-12,telefono,No reconoce la compra con tarjeta 4152 3138 9588 7904.
+724,328,2026-06-20,telefono,Pregunta por los requisitos de la tarjeta de crédito.
+725,934,2026-02-18,chat,"Vive en Calle Vega 893, Tijuana, pide cambio de domicilio."
+726,312,2026-09-30,chat,"Vive en Calle Peña 106, León, pide cambio de domicilio."
+727,463,2026-03-05,telefono,"Vive en Calle Méndez 352, Guadalajara, pide cambio de domicilio."
+728,882,2026-04-28,sucursal,Pregunta por los requisitos de la tarjeta de crédito.
+729,52,2026-08-29,telefono,Solicita su estado de cuenta de julio.
+730,11,2026-04-05,chat,Llamó desde el 4425923290 para aclarar un cargo.
+731,442,2026-01-10,sucursal,"Su CURP es VAXX900517HTYEDG80, validar identidad."
+732,950,2026-01-28,chat,El cliente pide actualizar su correo a sergio.torres.ruiz15@ejemplo.com.
+733,765,2026-06-24,telefono,El cliente pide actualizar su correo a bruno.flores.gil19@mail.test.
+734,904,2026-01-04,telefono,Solicita su estado de cuenta de julio.
+735,527,2025-12-09,chat,Solicita su estado de cuenta de julio.
+736,302,2026-06-13,sucursal,Queja por el tiempo de espera en sucursal.
+737,227,2026-09-21,telefono,No reconoce la compra con tarjeta 4152 3138 5272 5074.
+738,875,2026-02-01,telefono,Queja por el tiempo de espera en sucursal.
+739,713,2026-06-29,sucursal,Llamó desde el 4427691325 para aclarar un cargo.
+740,900,2026-02-25,telefono,No reconoce la compra con tarjeta 4152 3138 7426 1122.
+741,784,2026-01-03,telefono,"Vive en Calle Peña 280, Puebla, pide cambio de domicilio."
+742,89,2026-02-12,sucursal,Solicita su estado de cuenta de julio.
+743,819,2026-08-04,telefono,Llamó desde el 4427427858 para aclarar un cargo.
+744,922,2026-06-12,chat,No reconoce la compra con tarjeta 4152 3138 6199 3023.
+745,481,2026-05-13,telefono,Queja por el tiempo de espera en sucursal.
+746,196,2026-06-09,chat,El cliente pide actualizar su correo a olga.pena.ramirez82@mail.test.
+747,775,2026-02-08,chat,Queja por el tiempo de espera en sucursal.
+748,845,2026-06-14,chat,Solicita su estado de cuenta de julio.
+749,570,2026-03-25,telefono,No reconoce la compra con tarjeta 4152 3138 1967 3338.
+750,918,2026-08-01,chat,Queja por el tiempo de espera en sucursal.
+751,367,2026-05-26,sucursal,"Su CURP es CGPX700811HARLGQ70, validar identidad."
+752,882,2025-12-11,telefono,Queja por el tiempo de espera en sucursal.
+753,324,2026-09-13,chat,"Su CURP es CCPX930821MYYOMJ95, validar identidad."
+754,305,2026-07-29,telefono,Solicita su estado de cuenta de julio.
+755,224,2026-09-15,sucursal,Llamó desde el 4428132332 para aclarar un cargo.
+756,812,2026-06-17,sucursal,No reconoce la compra con tarjeta 4152 3138 5400 6358.
+757,629,2026-03-28,telefono,Solicita su estado de cuenta de julio.
+758,70,2026-04-08,sucursal,Queja por el tiempo de espera en sucursal.
+759,839,2026-07-09,sucursal,"Vive en Calle Flores 741, Tijuana, pide cambio de domicilio."
+760,137,2026-04-02,chat,Pregunta por los requisitos de la tarjeta de crédito.
+761,764,2026-01-08,chat,No reconoce la compra con tarjeta 4152 3138 5796 2131.
+762,304,2026-03-09,chat,"Vive en Calle Gil 744, CDMX, pide cambio de domicilio."
+763,920,2026-03-05,sucursal,Solicita su estado de cuenta de julio.
+764,751,2026-06-28,sucursal,No reconoce la compra con tarjeta 4152 3138 8769 5572.
+765,638,2026-06-26,telefono,"Vive en Calle Campos 678, Guadalajara, pide cambio de domicilio."
+766,661,2026-05-05,sucursal,"Su CURP es RVCX120428HTPSZU86, validar identidad."
+767,86,2026-06-28,sucursal,"Su CURP es MRKX071011MSAHUK24, validar identidad."
+768,742,2026-01-20,sucursal,"Su CURP es RSJX680208HTPAHS34, validar identidad."
+769,970,2026-09-02,telefono,"Vive en Calle Molina 369, Tijuana, pide cambio de domicilio."
+770,979,2026-06-05,chat,Queja por el tiempo de espera en sucursal.
+771,466,2026-03-09,telefono,"Su CURP es MFIX840922HPJFIB80, validar identidad."
+772,392,2026-04-18,telefono,"Su CURP es LHJX700805MQHEAP56, validar identidad."
+773,387,2026-05-19,chat,No reconoce la compra con tarjeta 4152 3138 8244 4201.
+774,932,2026-07-25,sucursal,No reconoce la compra con tarjeta 4152 3138 3374 9096.
+775,845,2026-07-24,chat,"Vive en Calle Méndez 499, Monterrey, pide cambio de domicilio."
+776,307,2026-03-04,chat,El cliente pide actualizar su correo a ulises.herrera.campos4@correo.mx.
+777,569,2026-08-19,telefono,Pregunta por los requisitos de la tarjeta de crédito.
+778,253,2025-12-06,sucursal,"Su CURP es STCX040822HNSBAH40, validar identidad."
+779,327,2025-12-23,telefono,No reconoce la compra con tarjeta 4152 3138 5051 1556.
+780,950,2026-03-29,telefono,Solicita su estado de cuenta de julio.
+781,11,2026-06-10,telefono,"Vive en Calle Peña 235, Monterrey, pide cambio de domicilio."
+782,19,2026-07-28,chat,"Vive en Calle Ortiz 120, Querétaro, pide cambio de domicilio."
+783,352,2026-05-05,telefono,Pregunta por los requisitos de la tarjeta de crédito.
+784,179,2026-01-29,chat,Solicita su estado de cuenta de julio.
+785,900,2026-04-10,telefono,El cliente pide actualizar su correo a maria.mendez.vega7@mail.test.
+786,854,2026-07-21,chat,Pregunta por los requisitos de la tarjeta de crédito.
+787,257,2026-03-17,chat,Queja por el tiempo de espera en sucursal.
+788,265,2026-01-13,chat,"Su CURP es NMJX860831HGVRHQ98, validar identidad."
+789,411,2026-07-27,telefono,El cliente pide actualizar su correo a diego.nunez.rojas39@ejemplo.com.
+790,796,2026-02-18,sucursal,El cliente pide actualizar su correo a elena.castillo.herrera2@mail.test.
+791,848,2026-08-11,chat,Llamó desde el 4428939578 para aclarar un cargo.
+792,464,2026-09-28,telefono,Pregunta por los requisitos de la tarjeta de crédito.
+793,293,2026-08-15,chat,Pregunta por los requisitos de la tarjeta de crédito.
+794,135,2026-04-16,sucursal,No reconoce la compra con tarjeta 4152 3138 2088 6542.
+795,284,2026-05-16,sucursal,Pregunta por los requisitos de la tarjeta de crédito.
+796,409,2026-03-04,sucursal,Llamó desde el 4427074245 para aclarar un cargo.
+797,281,2026-07-13,chat,"Vive en Calle Gil 114, Guadalajara, pide cambio de domicilio."
+798,740,2026-06-13,chat,El cliente pide actualizar su correo a ana.rojas.diaz9@ejemplo.com.
+799,328,2026-08-09,chat,"Su CURP es NLGX840525HFDTMH25, validar identidad."
+800,422,2026-05-31,chat,Queja por el tiempo de espera en sucursal.
