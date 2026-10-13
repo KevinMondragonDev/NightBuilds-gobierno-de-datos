@@ -1,6 +1,6 @@
 # 🛡️ Reto 6 — Gobierno de datos
 
-**Repositorio:** `sideproject-gobierno-de-datos` · **Nivel:** intermedio · **Entorno:** PostgreSQL, Floci (catálogo de Glue) y Python · **Método y evaluación:** [`README.md`](docs/METODO.md)
+**Repositorio:** `NightBuilds-gobierno-de-datos` · **Nivel:** intermedio · **Entorno:** PostgreSQL, Floci (catálogo de Glue) y Python · **Método y evaluación:** [`README.md`](docs/METODO.md)
 
 ## El caso
 
